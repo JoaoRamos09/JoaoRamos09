@@ -10,7 +10,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoramos09&layout-donut-chart&theme=holi"/>
   <img height = "165em" src ="https://github-readme-stats.vercel.app/api/wakatime?username=joaoramos09&theme=holi&layout=compact">
   <br>
-  <img src="https://wakatime.com/badge/user/ada26962-b23e-47ab-8b09-26bda8b2b764.svg">
+  
+  [![wakatime](https://wakatime.com/badge/user/ada26962-b23e-47ab-8b09-26bda8b2b764.svg)](https://wakatime.com/@ada26962-b23e-47ab-8b09-26bda8b2b764)
+ 
   </div>
 <br>
 
