@@ -1,7 +1,7 @@
 # João Ramos
 
 - 🌱 Entusiasta da área de tecnologia;
-- ♨ Estudando a linguagem Java;
+
 <br>
 
 ## Status
