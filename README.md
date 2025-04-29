@@ -1,9 +1,11 @@
 # João Ramos
 
-👋 I am a Software Engineer based in Brazil, focusing on applications involving Large Language Models (LLMs) and Agent-based AI. I’m passionate about leveraging innovative technologies to create efficient solutions.
+👋 I am a developer with solid experience in building scalable, high-performance systems, working primarily with Java (Spring Boot), Golang, and Python, integrating robust solutions with PostgreSQL and AWS. I have expertise in creating RESTful APIs and backend services focused on efficiency, security, and scalability..
 
 ## About Me
 
-I focus on applications involving Large Language Models (LLMs) and Agent-based AI. As a professional in constant evolution, I am always seeking the latest updates and trends in the LLM field. I am committed to learning and applying new technologies to develop innovative and efficient solutions. Feel free to explore my repositories and reach out to exchange ideas!
+I have practical, hands-on knowledge in Generative Artificial Intelligence, with a focus on LLMs, SLMs, Groq, and architectures based on RAG (Retrieval-Augmented Generation). I develop LLM-based solutions aimed at process automation, information retrieval, and generating value from textual data, always paying close attention to performance and business context.
+
+I have an analytical profile, focused on solving complex problems, scalable software engineering, and the agile development of high-impact solutions. I possess strong adaptability to new technologies, tool integration, and the application of engineering best practices. I am always committed to technical excellence, delivering efficient, secure solutions aligned with business goals.
 
 
