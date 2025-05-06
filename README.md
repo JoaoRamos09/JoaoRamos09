@@ -9,3 +9,7 @@ I have practical, hands-on knowledge in Generative Artificial Intelligence, with
 I have an analytical profile, focused on solving complex problems, scalable software engineering, and the agile development of high-impact solutions. I possess strong adaptability to new technologies, tool integration, and the application of engineering best practices. I am always committed to technical excellence, delivering efficient, secure solutions aligned with business goals.
 
 
+## Articles/Posts
+- https://medium.com/@joaorsramos/aplicando-ia-com-go-api-vetorial-com-openai-pinecone-e-jwt-23e3112a39f4
+
+
